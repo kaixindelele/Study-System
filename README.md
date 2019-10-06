@@ -47,7 +47,8 @@ A very simple study system, I hope this system can combine my study tasks and my
   &emsp;&emsp;所以做父母的就会有各种引导方式：经典的做法，犹太家长会在《圣经》上抹上蜂蜜，小孩子第一次接触书本，就会感觉到快乐：
   
   &emsp;&emsp;**即建立一个连接：书本-甜感-快乐！**，这里就会将很远处才可以感受到的快乐，立刻拿到，在脑子里产生的印象就是：
-  [TODO]add 读书快乐示意图.png
+  
+  ![image](https://github.com/kaixindelele/Study-System/blob/master/images/%E8%AF%BB%E4%B9%A6%E5%BF%AB%E4%B9%90%E7%A4%BA%E6%84%8F%E5%9B%BE.png)
   
   
   
