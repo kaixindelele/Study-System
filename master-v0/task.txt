@@ -1,0 +1,2 @@
+1 将Python的传参博客写完 10
+2 将spiningup的log函数走一遍 10
